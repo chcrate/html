@@ -1,5 +1,3 @@
-# a simple html interface of some sort
-# no specific direction on this project
-# this is for testing purposes only
+a simple html interface.
+this is in the beginning and testing phase
 #
-# thanks for visiting
